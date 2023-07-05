@@ -20,6 +20,9 @@
     <loc>http://www.example.com/tags/try/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://www.example.com/about-me/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://www.example.com/posts/post1/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
